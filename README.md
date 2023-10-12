@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @SanjitaSaravanan
 - 👀 I’m interested in Full-Stack development
-- 🌱 I’m currently learning React hooks, React router!!!
 - 📫 contact : sanjitasaravanan16@gmail.com
 
 <!---
