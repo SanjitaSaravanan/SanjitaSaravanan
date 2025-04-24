@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @SanjitaSaravanan
-- 👀 I’m interested in Full-Stack development
 - 📫 contact : sanjitasaravanan16@gmail.com
 
 <!---
